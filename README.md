@@ -5,8 +5,6 @@ I am **Suraj Giri**, an inquisitive and enthusiastic individual with a strong pa
 
 <img align="right" src="./assets/icons/avatar.png" height="200px">
 
-As a recent BSc. CS graduate, I am deeply intrigued by Machine Learning and Software Development.
-
 ### **Languages and Tools I mostly use:**
 
 <div>
@@ -15,7 +13,7 @@ As a recent BSc. CS graduate, I am deeply intrigued by Machine Learning and Soft
 <img src = "./assets/icons/c++.png" height = 50px>
 <img src = "./assets/icons/c_sharp.png" height = 50px>
 <img src = "./assets/icons/javascript.png" height = 50px>
-<img src = "./assets/icons/html.png" height = 50px>
+<img src = "./assets/icons/html.png" height = 50px>f
 <img src = "./assets/icons/css.png" height = 50px>
 <img src = "./assets/icons/django.png" height = 50px>
 <img src = "./assets/icons/flask.png" height = 50px>
