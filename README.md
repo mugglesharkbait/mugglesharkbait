@@ -8,7 +8,7 @@ I am **Suraj Giri**, an inquisitive and enthusiastic individual with a strong pa
 ### **Languages and Tools I mostly use:**
 
 <div>
-<img src = "./assets/icons/python.png" height = 50px href="https://www.python.org/"/>
+<img src = "./assets/icons/python.png" height = 50px src="https://www.python.org/"/>
 <img src = "./assets/icons/c.png" height = 50px>
 <img src = "./assets/icons/c++.png" height = 50px>
 <img src = "./assets/icons/c_sharp.png" height = 50px>
