@@ -3,25 +3,25 @@
 ### **About me:**
 I am **Suraj Giri**, an inquisitive and enthusiastic individual with a strong passion for Machine Learning and Software Engienering.
 
-[<img align="right" src="./assets/icons/avatar.png" height="200px">]()
+<img align="right" src="./assets/icons/avatar.png" height="200px">
 
 ### **Languages and Tools I mostly use:**
 
-<!-- <div> -->
-[<img src = "./assets/icons/python.png" height = 50px target="_blank"/>](https://www.python.org/)
-[<img src = "./assets/icons/c.png" height = 50px>]()
-[<img src = "./assets/icons/c++.png" height = 50px>]()
-[<img src = "./assets/icons/c_sharp.png" height = 50px>]()
-[<img src = "./assets/icons/javascript.png" height = 50px>]()
-[<img src = "./assets/icons/html.png" height = 50px>]()
-[<img src = "./assets/icons/css.png" height = 50px>]()
-[<img src = "./assets/icons/django.png" height = 50px>]()
-[<img src = "./assets/icons/flask.png" height = 50px>]()
-[<img src = "./assets/icons/git.png" height = 50px>]()
-[<img src = "./assets/icons/react.png" height = 50px>]()
-[<img src = "./assets/icons/figma.png" height = 50px>]()
-[<img src = "./assets/icons/canva.png" height = 50px>]()
-<!-- </div> -->
+<div>
+<img src = "./assets/icons/python.png" height = 50px>
+<img src = "./assets/icons/c.png" height = 50px>
+<img src = "./assets/icons/c++.png" height = 50px>
+<img src = "./assets/icons/c_sharp.png" height = 50px>
+<img src = "./assets/icons/javascript.png" height = 50px>
+<img src = "./assets/icons/html.png" height = 50px>f
+<img src = "./assets/icons/css.png" height = 50px>
+<img src = "./assets/icons/django.png" height = 50px>
+<img src = "./assets/icons/flask.png" height = 50px>
+<img src = "./assets/icons/git.png" height = 50px>
+<img src = "./assets/icons/react.png" height = 50px>
+<img src = "./assets/icons/figma.png" height = 50px>
+<img src = "./assets/icons/canva.png" height = 50px>
+</div>
 
 <div align="center">
 <a align="center" href="https://www.linkedin.com/in/surajgiri7/">
