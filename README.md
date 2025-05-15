@@ -1,7 +1,7 @@
 ## **Hi there 👋. Nice to see you!**
 
 ### **About me:**
-I am **Suraj Giri**, an inquisitive and enthusiastic individual with a strong passion for Machine Learning and Software Engienering.
+I am **Suraj Giri**, a Software Engineer, originally from Nepal, living in Germany, with a strong passion for Machine Learning and Software Engienering.
 
 <img align="right" src="./assets/icons/avatar.png" height="200px">
 
